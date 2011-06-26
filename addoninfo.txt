@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+     addonSteamAppID         "550"
+     addontitle              "ClearHUD"
+     addonversion            "1.0"
+}
